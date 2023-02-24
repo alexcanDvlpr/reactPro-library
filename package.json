@@ -62,5 +62,17 @@
   },
   "dependencies": {
     "postcss": "^8.4.21"
-  }
+  },
+  "repository": {
+    "url": "https://github.com/alexcanDvlpr/reactPro-library",
+    "type": "git"
+  },
+  "homepage": "https://alexcantongarcia.es",
+  "keywords": [
+    "react",
+    "product",
+    "card",
+    "alexcan",
+    "react-course"
+  ]
 }
